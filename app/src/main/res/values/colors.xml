@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="red">#ffcc0000</color>
+    <color name="blue">#0560FA</color>
+
+    <!-- checkbox style for colored checkbox -->
+    <style name="colored_checkBox" parent="Theme.AppCompat.Light">
+        <!-- selected checkbox colors -->
+        <item name="colorAccent">@color/blue</item>
+    </style>
+</resources>
